@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I'm Nada Hammami, a final-year engineering student at INSAT diving into data science and ML/DL, trying not to trip over my own code.
+  I'm Nada Hammami, a final-year Engineering Student at INSAT diving into data science and ML/DL, trying not to trip over my own code.
 </p>
 
 <p align="center">
