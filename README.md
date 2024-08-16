@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!
+## Welcome to my github profile!
+I'm Nada Hammami,a final-year engineering student at INSAT diving into data science and ML/DL
 
 <!--
 **hammami-nada/hammami-nada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
