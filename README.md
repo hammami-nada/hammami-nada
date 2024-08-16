@@ -13,13 +13,13 @@
 
 
 <p align="center">
-  <strong>Languages:</strong>
+  <strong>Languages</strong>
 </p>
 
 <p align="center">
-  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5;">Python</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5;">Java</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5;">C</span>
+  <a href="#" style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5; color: #333; text-decoration: none;">Python</a>
+  <a href="#" style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5; color: #333; text-decoration: none;">C</a>
+  <a href="#" style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px; background-color: #f5f5f5; color: #333; text-decoration: none;">Java</a>
 </p>
 
 
