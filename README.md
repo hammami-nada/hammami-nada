@@ -1,6 +1,8 @@
 ## Hi there!
 ## Welcome to my github profile!
-I'm Nada Hammami,a final-year engineering student at INSAT diving into data science and ML/DL
+I'm Nada Hammami,a final-year engineering student at INSAT diving into data science and ML/DL trying not to trip over my own code.
+Open to collaborating on interesting and innovative projects.
+
 
 <!--
 **hammami-nada/hammami-nada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
