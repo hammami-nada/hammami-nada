@@ -1,9 +1,16 @@
-## **Hi there!**
-## **Welcome to my GitHub profile!**
+<p align="center">
+  <strong>Hi there!</strong><br>
+  <strong>Welcome to my GitHub profile!</strong>
+</p>
 
-I'm Nada Hammami, a final-year engineering student at INSAT diving into data science and ML/DL, trying not to trip over my own code.
+<p align="center">
+  I'm Nada Hammami, a final-year engineering student at INSAT diving into data science and ML/DL, trying not to trip over my own code.
+</p>
 
-Open to collaborating on interesting and innovative projects.
+<p align="center">
+  Open to collaborating on interesting and innovative projects.
+</p>
+
 
 
 
