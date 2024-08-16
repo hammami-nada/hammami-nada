@@ -12,6 +12,15 @@
 </p>
 
 
+<p align="center">
+  <strong>Languages:</strong>
+</p>
+
+<p align="center">
+  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px;">Python</span>
+  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px;">Java</span>
+  <span style="display: inline-block; padding: 10px; margin: 5px; border: 1px solid #ddd; border-radius: 5px;">C</span>
+</p>
 
 
 <!--
